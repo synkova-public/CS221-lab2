@@ -1,6 +1,6 @@
 # CS221-lab2
 Name: Aiden Synkova
-Course: CPSC 221 2016W2 offering
+</p>Course: CPSC 221 2016W2 offering
 
 *************************************************************************
 Parts implemented or analysed by me: deque.cc, pointers.cc, insertion.cc
