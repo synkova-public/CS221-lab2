@@ -1,5 +1,5 @@
 # CS221-lab2
-Name: Aiden Synkova
+Name: Phoenix Synkova
 </p>Course: CPSC 221 2016W2 
 
 *************************************************************************
